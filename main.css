@@ -43,8 +43,14 @@ h2{
 
 h1{
     font-family: rebond-extrabold, sans-serif;
-    margin: 50px;
+    margin: 50px auto 30px;
     font-size: 40pt;
+}
+
+.btn{
+    position: absolute;
+    left: 93%;
+    top: 7%;
 }
 
 .card {
